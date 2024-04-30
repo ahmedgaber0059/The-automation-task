@@ -1,0 +1,14 @@
+[
+{
+  "InputWithVowels": "money",
+  "InputWithoutVowels" : "flyby",
+  "InputWithAllVowels" : "aeiou",
+  "EmptyInput" : "",
+  "InputWithCapitalVowels" : "Ahmed",
+  "Integers" : "123",
+  "InputWithSpaces" : "my name is ahmed",
+  "InputWithSpecialCharacters" : "H@llo Word!!",
+  "SqlInjection" : "or \\\"\\\"=\\\"",
+  "InputWithAnotherLanguage" : "أحمد"
+}
+]
